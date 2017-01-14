@@ -11,6 +11,7 @@ the main function of this device is to:
 - Filter out the high band noise and limit the bandwidth to an usable range only, protect the input against voltage spikes.
 - Match the output voltage range of the source (pot/hall sensor) with the input range of the ADC, thus making the most of the available ADC resolution.
 - Linearize the hall sensor output signal response by amplyfing it's most linear region to the full scale ADC input range.
+
 ---
 ##### Operation:
 
